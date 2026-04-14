@@ -1,10 +1,28 @@
-# OctoAcme Personas
+# 👥 OctoAcme Personas
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+> This document defines typical roles and responsibilities used in OctoAcme project docs and exercises. Each persona can be used as a role-specific prompt in Copilot Spaces to shape contextually relevant guidance.
 
 ---
 
-## Developers
+## 📋 Quick Reference
+
+| Persona | One-liner |
+|---------|-----------|
+| 💻 **Developer** | Builds and ships reliable software components |
+| 🎯 **Product Manager** | Owns the product vision and prioritizes customer value |
+| 🗓️ **Project Manager** | Keeps delivery on track via schedules, risks, and communication |
+| 🎨 **UX/UI Designer** | Shapes intuitive, accessible interfaces and design systems |
+| 🧪 **QA/Test Engineer** | Champions quality and verifies acceptance criteria before release |
+| ⚙️ **DevOps/Platform Engineer** | Owns CI/CD, infrastructure, and system reliability |
+| 🤝 **Stakeholder Advocate** | Surfaces customer feedback and aligns roadmap with user reality |
+
+---
+
+## 🏗️ Core Delivery Personas
+
+---
+
+## 💻 Developers
 
 ### Role Summary
 Developers design, build, test, and deliver software components. They collaborate with product and project leads to implement features that meet acceptance criteria and quality standards.
@@ -28,7 +46,7 @@ Developers design, build, test, and deliver software components. They collaborat
 
 ---
 
-## Product Managers
+## 🎯 Product Managers
 
 ### Role Summary
 Product Managers define what should be built to deliver customer and business value. They own the product vision, prioritize the backlog, and measure outcomes.
@@ -51,7 +69,7 @@ Product Managers define what should be built to deliver customer and business va
 
 ---
 
-## Project Managers
+## 🗓️ Project Managers
 
 ### Role Summary
 Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
@@ -75,7 +93,11 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## UX/UI Designers
+## 🔧 Extended Personas
+
+---
+
+## 🎨 UX/UI Designers
 
 ### Role Summary
 UX/UI Designers shape user experience, design interfaces, and work with PMs and developers to ensure usability standards are met throughout the product lifecycle.
@@ -99,7 +121,7 @@ UX/UI Designers shape user experience, design interfaces, and work with PMs and 
 
 ---
 
-## QA/Test Engineers
+## 🧪 QA/Test Engineers
 
 ### Role Summary
 QA/Test Engineers champion product quality, design and execute test plans, and verify that acceptance criteria are fully met before release.
@@ -123,7 +145,7 @@ QA/Test Engineers champion product quality, design and execute test plans, and v
 
 ---
 
-## DevOps/Platform Engineers
+## ⚙️ DevOps/Platform Engineers
 
 ### Role Summary
 DevOps/Platform Engineers own environments, deployment pipelines, CI/CD infrastructure, and system reliability to support fast, safe delivery.
@@ -147,7 +169,7 @@ DevOps/Platform Engineers own environments, deployment pipelines, CI/CD infrastr
 
 ---
 
-## Stakeholder Advocates (e.g., Customer Success, Support Leads)
+## 🤝 Stakeholder Advocates _(e.g., Customer Success, Support Leads)_
 
 ### Role Summary
 Stakeholder Advocates represent external stakeholder and customer needs, triage user feedback, and help ensure product roadmaps remain aligned with real user priorities.
@@ -170,9 +192,10 @@ Stakeholder Advocates represent external stakeholder and customer needs, triage 
 
 ---
 
-## How these personas are used in the exercise
+## 🧭 How these personas are used in the exercise
+
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-- Core delivery personas (Developers, Product Managers, Project Managers) define the primary execution team.
-- Extended personas (UX/UI Designers, QA/Test Engineers, DevOps/Platform Engineers, Stakeholder Advocates) clarify how non-core participants contribute to successful project execution.
+- **Core delivery personas** (💻 Developers, 🎯 Product Managers, 🗓️ Project Managers) define the primary execution team.
+- **Extended personas** (🎨 UX/UI Designers, 🧪 QA/Test Engineers, ⚙️ DevOps/Platform Engineers, 🤝 Stakeholder Advocates) clarify how non-core participants contribute to successful project execution.
 
